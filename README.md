@@ -1,5 +1,7 @@
 <h1>HNG Simple Public API</h1>
 
+<a href="https://hng.tech/hire/python-developers">python developers</a>
+
 <h2>Dependencies:</h2>
 blinker==1.9.0
 click==8.1.8
