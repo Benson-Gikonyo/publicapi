@@ -11,7 +11,7 @@ def get_info():
 
     current_datetime = datetime.now(pytz.utc).isoformat()
  
-    github_url = "https://github.com/Benson-Gikonyo/HNG-api"
+    github_url = "https://github.com/Benson-Gikonyo/publicapi"
 
     # JSON response
     response = {
